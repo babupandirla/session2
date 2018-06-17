@@ -18,6 +18,10 @@ drwxrwx---   - acadgild supergroup          0 2018-02-09 11:35 /tmp
 drwxr-xr-x   - acadgild supergroup          0 2018-02-09 14:50 /user
 [acadgild@localhost ~]$ 
 You have new mail in /var/spool/mail/acadgild
+
+
+creating a file in HDFS it self is not possible for a file to be in hdfs we have to put that from local file system to HDFS
+
 [acadgild@localhost ~]$ nano word-count.txt
 You have new mail in /var/spool/mail/acadgild
 [acadgild@localhost ~]$ ll
